@@ -7,8 +7,8 @@ public class Main {
 
         Scanner scan = new Scanner(System.in);
 
-        int value1;
-        int value2;
+        double value1;
+        double value2;
         double result;
         int operation;
 
